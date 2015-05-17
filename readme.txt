@@ -1,2 +1,3 @@
 Hello My name is WangYafei.
-I am learning about Git.
+And I am a sjtuer.
+I am very glad at learning about Git.
